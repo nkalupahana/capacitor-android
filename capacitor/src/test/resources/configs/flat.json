@@ -1,0 +1,20 @@
+{
+  "appId": "com.capacitorjs.testshostapp",
+  "appName": "testshostapp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "overrideUserAgent": "level 1 override",
+  "appendUserAgent": "level 1 append",
+  "backgroundColor": {
+    "light": "#ffffff",
+    "dark": "#000000"
+  },
+  "hideLogs": true,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1
+    }
+  },
+  "cordova": {}
+}
